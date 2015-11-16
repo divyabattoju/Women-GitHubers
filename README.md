@@ -23,6 +23,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [cranberryofdoom](https://github.com/cranberryofdoom)
 
+[Divya Bathoju](https://github.com/divyabattoju)
+
 [econchick](https://github.com/econchick)
 
 [ehashman](https://github.com/ehashman)
